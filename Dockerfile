@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 1883
 
 # Lancement du script simple_mqtt_server.py
-CMD ["python", "simple_mqtt_server.py"]
+CMD ["python", "cassini.py"]
